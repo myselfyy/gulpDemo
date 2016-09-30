@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#demo {
+  width: 500px;
+  height: 250px;
+  font-size: 20px;
+  background-color: blue;
+  margin: 0 auto;
+  font-weight: bold;
+  color: #fff;
+  background-image: url(https://activity-codoon.b0.upaiyun.com/cdmall26649762518305..name!320m0?v=2016-09-30);
+}
+.linkClass {
+  color: red;
+  font-size: 40px;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "gulpdemo",
+  "version": "1.0.0",
+  "description": "this is just for study gulp model",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-make-css-url-version": "0.0.13",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "through2": "^2.0.1",
+    "uglify": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:myselfyy/gulpDemo.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "yy",
+  "license": "ISC"
+}
