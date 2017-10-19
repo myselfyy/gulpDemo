@@ -18,8 +18,9 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
     "gulp-watch": "^4.3.10",
+    "jquery": "^3.2.1",
     "through2": "^2.0.1",
-    "uglify": "^0.1.5"
+    "uglify": "^0.1.5"   
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

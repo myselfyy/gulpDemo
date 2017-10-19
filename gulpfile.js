@@ -8,9 +8,8 @@ htmlmin = require("gulp-htmlmin"),
 concat = require('gulp-concat'),
 livereload = require('gulp-livereload'),
 // jshint = require('gulp-jshint'),
+// wiredep = require('wiredep').stream; //gulp注入一般会用gulp-inject和gulp-wiredep
 browserSync = require("browser-sync");
-
-
 
 //编译less文件
 gulp.task("compile",function() {
