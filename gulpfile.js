@@ -21,6 +21,7 @@ gulp.task("compile",function() {
 })
 
 //监听到less文件有变化时执行编译less任务
+//这里指对less文件做了监听，测试html,js都会自动监听
 gulp.task("testWatch", function() {
 	gulp.watch("app/css/**/*.less", ['compile']);
 })
